@@ -1,9 +1,6 @@
-# Demo Git Repository 
+# Demo Git Repository
 
-This is the first file in this repo. 
+This is the first file in this repo.
 
-## Ipsum Below 
-
-Boiiiiiiiii eta fede dintashang 
-
-Adding more gibbersih boizen 
+## Website Contents
+1. index.html 
