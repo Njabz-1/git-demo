@@ -3,4 +3,5 @@
 This is the first file in this repo.
 
 ## Website Contents
-1. index.html 
+Script nje meant to fill up this grey space 
+1. index.html
